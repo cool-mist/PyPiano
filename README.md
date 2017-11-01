@@ -1,5 +1,5 @@
 # PyPiano
-A simple monotonic keyboard made in python using scipy,numpy and pygame
+A simple mono-"phonic" keyboard made in python using scipy,numpy and pygame
 
 # Dependencies
 
